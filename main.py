@@ -1,6 +1,6 @@
 from tkinter import *
 from PIL import ImageTk, Image
-from words import words as words_EN
+from words import words_EN
 import random, dutch_words, string, os, sys
 
 def get_valid_word(words):
