@@ -3,6 +3,8 @@ The hangman game, made using tkinter
 
 Note that this might not work, I am still working on this project, I'm fixing little things but in the meantime it could be 'broken'.
 
+The 'quit' button is buggy right now, I'm working on it.
+
 The 'real' readme:
 
 Written in Python (3.8.4rc1) and tkinter()
